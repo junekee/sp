@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: root.project.servlets:servlet:war:1.0">
+    <CLASSES>
+      <root url="jar://E:/repository/root/project/servlets/servlet/1.0/servlet-1.0.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/repository/root/project/servlets/servlet/1.0/servlet-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/repository/root/project/servlets/servlet/1.0/servlet-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
